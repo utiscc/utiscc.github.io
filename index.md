@@ -1,6 +1,6 @@
 # Welcome to utis.cc
 
-This site is meant for hosting [UTIs](https://en.wikipedia.org/wiki/Uniform_Type_Identifier) that are not specific to one application or developer but shared amount many apps, and therefore considered "open source".
+This site is meant for hosting [UTIs](https://en.wikipedia.org/wiki/Uniform_Type_Identifier) that are not specific to one application or developer but shared among many apps, and therefore considered "open source".
 
 The domain `utis.cc` has been reserved for this purpose (currently paid until July 2026).
 
