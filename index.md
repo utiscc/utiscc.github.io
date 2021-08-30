@@ -4,7 +4,7 @@ This site is meant for hosting [UTIs](https://en.wikipedia.org/wiki/Uniform_Type
 
 The domain `utis.cc` has been reserved for this purpose (currently paid until July 2026).
 
-If you're a developer and like to registered a shared UTI, please contact us via the [Issues tracker](https://github.com/utiscc/utiscc.github.io/issues).
+If you're a developer and like to register a shared UTI, please contact us via the [Issues tracker](https://github.com/utiscc/utiscc.github.io/issues).
 
 ## Currently known shared UTIs
 
