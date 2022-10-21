@@ -24,3 +24,10 @@ A few things picked up from the aforementioned Tech Talk:
 - All system-known UTIs are stored inside `/System/Library/CoreServices/CoreTypes.bundle`
 - New regular file types should at least conform to "public.data", or to "com.apple.package" if they're a bundle directory.
 - If you introduce a new document file type, one that the user would interact with, then add "public.content" to its conforming types.
+
+## Contact
+
+Like to contribute?
+
+Contact: tempelmann+utiscc@gmail.com  
+Twitter: @tempelorg
